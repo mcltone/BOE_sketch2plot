@@ -1,0 +1,7 @@
+The sources for the CO2 vs temperature plots are 
+
+Rohde, R. A. and Hausfather, Z.: The Berkeley Earth Land/Ocean Temperature Record, Earth Syst. Sci. Data, 12, 3469-3479 (2020) 
+
+and 
+
+Oak Ridge National Laboratory, Carbon Dioxide Information Anal- ysis Center, Scripps Institute of Oceanography CO2 program, and the U.S. Energy Information Administration, International Energy Statistics, accessed December 7, 2020.

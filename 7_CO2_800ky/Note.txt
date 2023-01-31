@@ -1,0 +1,74 @@
+Antarctic Ice Cores Revised 800KYr CO2 Data
+
+# Online_Resource: http://ncdc.noaa.gov/paleo/study/17975
+
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/antarctica2015co2composite.txt
+
+
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+#--------------------
+# Contribution_Date
+#	Date: 2015-02-04
+#--------------------
+# Title
+#	Study_Name: Antarctic Ice Cores Revised 800KYr CO2 Data
+#--------------------
+# Investigators
+# 	Investigators: Bereiter, B.; Eggleston, S.; Schmitt, J.; Nehrbass-Ahles, C.; Stocker, T.F.; Fischer, H.; Kipfstuhl, S.; Chappellaz, J.
+#--------------------
+# Description_and_Notes
+#	Description: Revised EPICA Dome C and Antarctic composite ice core atmospheric CO2 data. This new version of CO2 composite 
+#	replaces the old version of Luthi et al. (2008), which contains the analytical bias described in Bereiter et al. 2015 
+#	and lower quality data in other sections. For details about the improvements relative to the previous version see supplementary 
+#	information of Bereiter et al. 2015. For detailed references of all records refer to the supplemetary information of 
+#	Bereiter et al. 2015. For latest anthropogenic data refer to NOAA/Mauna Loa record. Age unit is in years before present (yr BP) 
+#	where present refers to 1950 AD. Note, not all records shown in Excel worksheet "all records" are part of the composite. 
+#
+#	Composite built from the following: 
+#	-51-1800 yr BP: Law Dome (Rubino et al., 2013)
+#	1.8-2 kyr BP:	Law Dome (MacFarling Meure et al., 2006)
+#	2-11 kyr BP:	Dome C (Monnin et al., 2001 + 2004)
+#	11-22 kyr BP:	WAIS (Marcott et al., 2014) minus 4 ppmv (see text)
+#	22-40 kyr BP:	Siple Dome (Ahn et al., 2014)
+#	40-60 kyr BP:	TALDICE (Bereiter et al., 2012)
+#	60-115 kyr BP:	EDML (Bereiter et al., 2012)
+#	105-155 kyr BP:	Dome C Sublimation (Schneider et al., 2013)
+#	155-393 kyr BP:	Vostok (Petit et al., 1999)
+#	393-611 kyr BP:	Dome C (Siegenthaler et al., 2005)
+#	612-800 kyr BP:	Dome C (Bereiter et al., 2014)
+#
+#	If millennial scale or smaller details of the composite are studied, we recommend to look into all records available 
+#	for that period and not only in the composite.
+#
+#--------------------
+# Publication 
+# 	Authors: Bernhard Bereiter, Sarah Eggleston, Jochen Schmitt, Christoph Nehrbass-Ahles, Thomas F. Stocker, Hubertus Fischer, Sepp Kipfstuhl and Jerome Chappellaz
+#	Published_Date_or_Year: 2015-01-23     
+#	Published_Title: Revision of the EPICA Dome C CO2 record from 800 to 600 kyr before present
+#	Journal_Name: Geophysical Research Letters
+#	Volume: 
+#	Edition: 
+#	Issue: 
+#	Pages: 
+#	DOI: 10.1002/2014GL061957
+#	Online_Resource: http://onlinelibrary.wiley.com/doi/10.1002/2014GL061957/abstract
+#	Full_Citation: 
+#	Abstract: The European Project for Ice Coring in Antarctica Dome ice core from Dome C (EDC) has allowed for the reconstruction of atmospheric CO2 concentrations for the last 800,000 years. Here we revisit the oldest part of the EDC CO2 record using different air extraction methods and sections of the core. For our established cracker system, we found an analytical artifact, which increases over the deepest 200 m and reaches 10.1 +/- 2.4 ppm in the oldest/deepest part. The governing mechanism is not yet fully understood, but it is related to insufficient gas extraction in combination with ice relaxation during storage and ice structure. The corrected record presented here resolves partly - but not completely - the issue with a different correlation between CO2 and Antarctic temperatures found in this oldest part of the records. In addition, we provide here an update of 800,000 years atmospheric CO2 history including recent studies covering the last glacial cycle.
+#------------------
+# Publication 
+# 	Authors: Dieter Luthi, Martine Le Floch, Bernhard Bereiter, Thomas Blunier, Jean-Marc Barnola, Urs Siegenthaler, Dominique Raynaud, Jean Jouzel, Hubertus Fischer, Kenji Kawamura, and Thomas F. Stocker
+#	Published_Date_or_Year: 2008-05-15     
+#	Published_Title: High-resolution carbon dioxide concentration record 650,000-800,000 years before present
+#	Journal_Name: Nature
+#	Volume: 453
+#	Edition: 
+#	Issue: 
+#	Pages: 379-382
+#	DOI: 10.1038/nature06949
+#	Online_Resource: http://www.nature.com/nature/journal/v453/n7193/full/nature06949.html
+#	Full_Citation: 
+#	Abstract: Changes in past atmospheric carbon dioxide concentrations can be determined by measuring the composition of air trapped in ice cores from Antarctica. So far, the Antarctic Vostok and EPICA Dome C ice cores have provided a composite record of atmospheric carbon dioxide levels over the past 650,000 years. Here we present results of the lowest 200 m of the Dome C ice core, extending the record of atmospheric carbon dioxide concentration by two complete glacial cycles to 800,000 yr before present. From previously published data and the present work, we find that atmospheric carbon dioxide is strongly correlated with Antarctic temperature throughout eight glacial cycles but with significantly lower concentrations between 650,000 and 750,000 yr before present. Carbon dioxide levels are below 180 parts per million by volume (p.p.m.v.) for a period of 3,000 yr during Marine Isotope Stage 16, possibly reflecting more pronounced oceanic carbon storage. We report the lowest carbon dioxide concentration measured in an ice core, which extends the pre-industrial range of carbon dioxide concentrations during the late Quaternary by about 10 p.p.m.v. to 172–300 p.p.m.v.

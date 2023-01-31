@@ -1,0 +1,6 @@
+OWD disasters
+https://ourworldindata.org/grapher/number-of-natural-disaster-events
+
+TEMP TIME SERIES NOAA
+https://www.ncdc.noaa.gov/cag/global/time-series/globe/land_ocean/ann/6/1880-2021?filter=true&filterType=loess
+

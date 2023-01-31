@@ -1,0 +1,8 @@
+Temperature records for OU analysis
+
+PAGES2k Consortium. A global multiproxy database for temperature reconstructions of the Common Era. Sci Data 4, 170088 (2017). https://doi.org/10.1038/sdata.2017.88
+
+https://www.nature.com/articles/sdata201788
+
+Here we present 2,000-year-long global mean temperature reconstructions using seven different statistical methods that draw from a global collection of temperature-sensitive palaeoclimate records
+

@@ -1,0 +1,6 @@
+Plot From:
+
+Ahn, J., Brook, E. J., Mitchell, L., Rosen, J., McConnell, J. R., Taylor, K., Etheridge, D., and Rubino, M. (2012), Atmospheric CO2 over the last 1000 years: A high-resolution record from the West Antarctic Ice Sheet (WAIS) Divide ice core, Global Biogeochem. Cycles, 26, GB2027, doi:10.1029/2011GB004247. 
+
+Caption 
+Atmospheric CO2 for the last 1000 years. WAIS Divide data (red, this study) are compared with those from the Law Dome (blue) [Etheridge et al., 1996; MacFarling Meure et al., 2006] and EPICA Dronning Maud Land (black) [Siegenthaler et al., 2005]. To facilitate comparison of CO2 records, a Gaussian filter (1σ = 10 years) was applied to interpolated annual data sets (darker lines). OSU stands for Oregon State University and CMAR, CSIRO Marine and Atmospheric Research.

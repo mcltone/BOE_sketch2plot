@@ -1,0 +1,86 @@
+Sources
+
+Temperature
+
+EPICA Dome C Ice Core 800KYr Deuterium Data and Temperature Estimates
+
+DATA CITATION: Jouzel, J., et al.  2007.
+EPICA Dome C Ice Core 800KYr Deuterium Data and Temperature Estimates. 
+IGBP PAGES/World Data Center for Paleoclimatology 
+Data Contribution Series # 2007-091.
+NOAA/NCDC Paleoclimatology Program, Boulder CO, USA.
+
+
+ORIGINAL REFERENCE:
+Jouzel, J., V. Masson-Delmotte, O. Cattani, G. Dreyfus, S. Falourd, 
+G. Hoffmann, B. Minster, J. Nouet, J.M. Barnola, J. Chappellaz, H. Fischer,
+J.C. Gallet, S. Johnsen, M. Leuenberger, L. Loulergue, D. Luethi, H. Oerter,
+F. Parrenin, G. Raisbeck, D. Raynaud, A. Schilt, J. Schwander, E. Selmo, 
+R. Souchez, R. Spahni, B. Stauffer, J.P. Steffensen, B. Stenni, T.F. Stocker, 
+J.L. Tison, M. Werner, and E.W. Wolff.  2007.
+Orbital and Millennial Antarctic Climate Variability over the Past 800,000 Years.
+Science, Vol. 317, No. 5839, pp.793-797, 10 August 2007.
+
+
+CO2
+
+# Antarctic Ice Cores Revised 800KYr CO2 Data
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+#
+# Online_Resource: http://ncdc.noaa.gov/paleo/study/17975
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/antarctica2015co2composite.txt
+# 
+#
+# Archive: Ice Cores
+#--------------------
+# Contribution_Date
+#	Date: 2015-02-04
+#--------------------
+# Title
+#	Study_Name: Antarctic Ice Cores Revised 800KYr CO2 Data
+#--------------------
+# Investigators
+# 	Investigators: Bereiter, B.; Eggleston, S.; Schmitt, J.; Nehrbass-Ahles, C.; Stocker, T.F.; Fischer, H.; Kipfstuhl, S.; Chappellaz, J.
+#--------------------
+# Description_and_Notes
+#	Description: Revised EPICA Dome C and Antarctic composite ice core atmospheric CO2 data. This new version of CO2 composite 
+#	replaces the old version of Luthi et al. (2008), which contains the analytical bias described in Bereiter et al. 2015 
+#	and lower quality data in other sections. For details about the improvements relative to the previous version see supplementary 
+#	information of Bereiter et al. 2015. For detailed references of all records refer to the supplemetary information of 
+#	Bereiter et al. 2015. For latest anthropogenic data refer to NOAA/Mauna Loa record. Age unit is in years before present (yr BP) 
+#	where present refers to 1950 AD. Note, not all records shown in Excel worksheet "all records" are part of the composite. 
+#
+#	Composite built from the following: 
+#	-51-1800 yr BP: Law Dome (Rubino et al., 2013)
+#	1.8-2 kyr BP:	Law Dome (MacFarling Meure et al., 2006)
+#	2-11 kyr BP:	Dome C (Monnin et al., 2001 + 2004)
+#	11-22 kyr BP:	WAIS (Marcott et al., 2014) minus 4 ppmv (see text)
+#	22-40 kyr BP:	Siple Dome (Ahn et al., 2014)
+#	40-60 kyr BP:	TALDICE (Bereiter et al., 2012)
+#	60-115 kyr BP:	EDML (Bereiter et al., 2012)
+#	105-155 kyr BP:	Dome C Sublimation (Schneider et al., 2013)
+#	155-393 kyr BP:	Vostok (Petit et al., 1999)
+#	393-611 kyr BP:	Dome C (Siegenthaler et al., 2005)
+#	612-800 kyr BP:	Dome C (Bereiter et al., 2014)
+#
+#	If millennial scale or smaller details of the composite are studied, we recommend to look into all records available 
+#	for that period and not only in the composite.
+#
+#--------------------
+# Publication 
+# 	Authors: Bernhard Bereiter, Sarah Eggleston, Jochen Schmitt, Christoph Nehrbass-Ahles, Thomas F. Stocker, Hubertus Fischer, Sepp Kipfstuhl and Jerome Chappellaz
+#	Published_Date_or_Year: 2015-01-23     
+#	Published_Title: Revision of the EPICA Dome C CO2 record from 800 to 600 kyr before present
+#	Journal_Name: Geophysical Research Letters
+#	Volume: 
+#	Edition: 
+#	Issue: 
+#	Pages: 
+#	DOI: 10.1002/2014GL061957
+#	Online_Resource: http://onlinelibrary.wiley.com/doi/10.1002/2014GL061957/abstract
+
